@@ -15,7 +15,7 @@ curl https://codeload.github.com/prisma/prisma-examples/tar.gz/latest | tar -xz 
 
 Install npm dependencies:
 ```
-cd graphql-sdl-first
+cd weekend
 npm install
 ```
 
@@ -26,13 +26,13 @@ Note that this also generates Prisma Client JS into `node_modules/@prisma/client
 Clone this repository:
 
 ```
-git clone git@github.com:prisma/prisma-examples.git --depth=1
+git clone https://github.com/doughepi/weekend.git
 ```
 
 Install npm dependencies:
 
 ```
-cd prisma-examples/typescript/graphql-sdl-first
+cd weekend
 npm install
 ```
 
